@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MacielGithub
+- 👀 I’m a Production Engineering currently finishing my graduation, I just got interested in data science, so I've been learning python and using PowerBI at work as an intern.
+- 🌱 I’m currently developing my programming skills, getting into this whole new world.
+- ⚡ Fun fact: I got a step into music :) it's a hobby that might become a part time job.
